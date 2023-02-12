@@ -1,11 +1,5 @@
 import requests, csv, time
 from bs4 import BeautifulSoup
-# import time
-# import csv
-# import yaml
-
-# with open('config/main.comfig.yml') as f:
-#     config = yaml.load(f, Loader=yaml.FullLoader)
 
 def get_house_adverts():
 
